@@ -21,8 +21,8 @@ pip install bs4 -y
 
 pkg install git -y
 
+https://github.com/mdjonayedalhabibbd13/FILE-OLD-RANDOM.git
 
+cd FILE-OLD-RANDOM
 
-
-
-
+python old_id_cloning.py
